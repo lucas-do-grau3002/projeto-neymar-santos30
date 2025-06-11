@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Historia',
     'O que é uma monarquia?',
-    'é um sistema de governo onde o chefe de Estado é um monarca'
+    'É um sistema de governo onde o chefe de estado é um monarca'
 )
